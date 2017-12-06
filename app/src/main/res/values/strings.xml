@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Basic information about Niscair [CHAR LIMIT=20] -->
+    <string name="about">ABOUT CSIR-NISCAIR</string>
+
+    <!-- training courses information [CHAR LIMIT=20] -->
+    <string name="courses">TRAINING COURSES AT NISCAIR</string>
+
+    <!-- Contact us info  [CHAR LIMIT=20] -->
+    <string name="contact">CONTACT US</string>
+
+    <!--Log in for the account who already have signed in[CHAR LIMIT=20] -->
+    <string name="login">LOG IN</string>
+    <string name="about1">National Institute of Science Communication and Information Resources (NISCAIR) came into existence on 30 September 2002 with the merger of National Institute of Science Communication (NISCOM) and Indian National Scientific Documentation Centre (INSDOC). Both NISCOM and INSDOC, the two premier institutes of the Council of Scientific and Industrial Research (CSIR), were devoted to dissemination and documentation of S&amp;T information.</string>
+    <string name="about2">Now, with the formation of NISCAIR, all the above multi-faceted activities have been amalgamated, making NISCAIR, an institute capable of serving the society using modern IT infrastructure in a more effective manner and taking up new ventures in the field of science communication, dissemination and S&amp;T information management systems and services. Broadly the core activity of NISCAIR will be to collect/store, publish and disseminate S and T information through a mix of traditional and modern means, which will benefit different segments of society.</string>
+    <string name="course1">NISCAIR is ideally placed to train and prepare science communicators, R&amp;D personnel, library and information science professionals for meeting the challenges of current times.NISCAIR"'"s HRD Programmes can be categorized as follows:</string>
+    <string name="course2"> 1. Short-term training programmes\n2. On-site training programmes</string>
+    <string name="course3">Short-term training programmes</string>
+    <string name="course4" formatted="false">NISCAIR conducts short term courses in the field of Library and Information Science and other areas.\n\nELIGIBILITY\nThe short-term courses are offered to R&amp;D personnel, science communicators, library and information science professions/students, middle and senior level managers, etc.\n\nHOW TO APPLY\n1.Fill the application form with the correct information.\n2.Pay the appropriate course fee to the NEFT.\n3.The application form along with fee proof is to be sent to:Head, Education and Training Division, CSIR-NISCAIR, Vigyan Suchna Bhawan, 14-Satsang Vihar Marg, New Delhi – 110067.\n\nPAYMENT OF COURSE FEE\nPayment of required fee may be made to NISCAIR bank account through NEFT. It may kindly be noted that payment through Demand Draft / Cheque / Cash will not be accepted.\n\nACCOMMODATION\nAccommodation is available for limited number of participants on first come first served basis. Accommodation would be provided at:\nNISCAIR Guest House\nCSIR Scientists Apartments\nOpposite to NAFED Building\nAshram Chowk\nMaharani Bagh\nNEW DELHI- 110065\n\nREFUND OF COURSE FEE\nThe following guidelines will apply for refund of course fee in the event of a cancellation of request from the applicant or sponsoring body for short-term training programmes.\nIf intimation about cancellation is received:\n	i) more than one month in advance – refund with 10% deduction;\n	ii) more than one week in advance but less than one month – refund with 20% deduction; and\n	iii) less than one week in advance – No refund\nIn case of cancellation of the course by NISCAIR, the course fee would either be refunded in full or adjusted against registration to another batch of the same\ncourse or to a similar course on receiving a communication from the applicant.\n\n</string>
+</resources>

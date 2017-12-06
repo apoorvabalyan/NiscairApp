@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:fillViewport="true">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.example.android.miwok.MainActivity">
+        <TextView
+            android:id="@+id/about"
+            style="@style/CategoryStyle"
+            android:background="@color/category_about"
+            android:text="@string/about"
+            android:textAllCaps="true"
+            android:textSize="22sp"
+            android:layout_marginTop="60dp"
+            android:textAlignment="center"
+            android:onClick="aboutMethod"/>
+
+        <TextView
+            android:id="@+id/courses"
+            style="@style/CategoryStyle"
+            android:background="@color/category_about"
+            android:text="@string/courses"
+            android:textSize="22sp"
+            android:layout_below="@id/about"
+            android:layout_marginTop="20dp"
+            android:textAlignment="center"
+            android:onClick="courseMethod"/>
+
+        <TextView
+            android:id="@+id/login"
+            style="@style/CategoryStyle"
+            android:background="@color/category_about"
+            android:text="@string/login"
+            android:textSize="22sp"
+            android:layout_below="@id/courses"
+            android:layout_marginTop="20dp"
+            android:textAlignment="center"
+            android:onClick="loginMethod"/>
+
+        <TextView
+            android:id="@+id/contact"
+            style="@style/CategoryStyle"
+            android:background="@color/category_about"
+            android:text="@string/contact"
+            android:textSize="22sp"
+            android:layout_below="@+id/login"
+            android:layout_marginTop="20dp"
+            android:textAlignment="center"
+            android:onClick="contactMethod"/>
+
+    </RelativeLayout>
+</ScrollView>
